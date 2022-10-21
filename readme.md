@@ -14,6 +14,18 @@
 ### After cloning project
 
 ```shell
+composer install
+```
+
+```shell
+yarn install
+```
+
+```shell
+yarn watch
+```
+
+```shell
 symfony check:req
 ```
 
