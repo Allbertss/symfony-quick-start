@@ -1,11 +1,26 @@
+# Symfony quick start
+
+## Repository contains
+
+- Twig bundle
+- Profiler
+- Logger
+- Apache-pack
+- Webpack Encore
+  - jQuery
+  - Stimulus js
+  - bootstrap
+
+### After cloning project
+
+```shell
 symfony check:req
+```
 
-solve problems if any
+*Solve problems if any*
 
-Set up: twig bundle, profiler, logger, encore, apache-pack,
+### Versions
 
-node 16.18
-npm 8.19.2
-yarn 1.22.19
-
-bootstrap, jquery, Stimulus js.
+- Symfony 6.1.6
+- Node 16.18
+- npm 8.19.2 *or* Yarn 1.22.19
